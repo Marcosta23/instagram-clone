@@ -108,7 +108,9 @@ body {
 }
 .app-download:nth-child(1) {
   background-image: url("/apple-button.png");
+  border-radius: 8px;
 }
 .app-download:nth-child(2) {
   background-image: url("/googleplay-button.png");
+  border-radius: 8px;
 }
